@@ -1,0 +1,9 @@
+t.lxdh,t.lxr,t.yddw,t.ydjgrq,t.ydkgrq,t.gdwjqfrq,t.gdwjbh,t.gdwjzl,
+			t.lybzj,t.tdcrj,t.jzmj,t.tdmj,t.tdyt,t.gdfs,t.xmfl,t.dkbh,t.xmmc,t.xmbh,
+			t.gxr,t.gxsj,t.ywlx,t.cjr,t.cjsj,
+			t.xzqh,t.state,t.ydpwh,t.sfkgtx,t.tdzl,t.lk,
+			t.sfkgly,t.sfkgsb,t.sfjgtx,t.sfjgly,t.sfjgsb,t.sffhsb,t.pzrq,
+			
+			t1.instanceid as instanceid,t1.jjbh as jjbh,
+			'½Ó¼þ' as taskname,
+			v.taskid as taskid
