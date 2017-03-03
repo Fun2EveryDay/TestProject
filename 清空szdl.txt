@@ -1,0 +1,18 @@
+delete szdl_dlwh;
+delete sgd_detail_log;
+
+delete addpoints_kpi_stats;
+delete apply_extra_points;
+
+delete kpi_daycheckinfo;
+delete kpi_detail_log;
+delete mayor_checkinfo;
+delete mayor_detail_log;
+delete month_kpi_stats;
+delete month_kpi_stats_temp;
+delete police_checkinfo;
+delete police_result;
+
+delete day_kpi_stats;
+delete kpi_110_stats;
+delete year_kpi;
