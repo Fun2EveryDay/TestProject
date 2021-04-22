@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-22T09:58:45.760Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="n8Y6aL9pWqu6ue8vRE0-" version="14.6.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-04-22T10:00:46.301Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="Hb4yOAAfoWPAKs1U7H7v" version="14.6.5" type="github" pages="2">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#003469" math="0" shadow="0">
       <root>
@@ -315,18 +315,11 @@
         <mxCell id="k8A4XXEUtAruGWKC6ZyQ-25" value="民政局婚姻数据&lt;br&gt;（2003年以前）" style="rounded=0;whiteSpace=wrap;html=1;" parent="k8A4XXEUtAruGWKC6ZyQ-1" vertex="1">
           <mxGeometry x="90" y="570" width="130" height="60" as="geometry" />
         </mxCell>
-        <object label="" id="0Xg47DILR9-yJ6E_70Ev-4">
-          <mxCell style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="k8A4XXEUtAruGWKC6ZyQ-1" source="0Xg47DILR9-yJ6E_70Ev-0" target="0Xg47DILR9-yJ6E_70Ev-1">
-            <mxGeometry relative="1" as="geometry">
-              <Array as="points">
-                <mxPoint x="360" y="780" />
-                <mxPoint x="360" y="780" />
-              </Array>
-            </mxGeometry>
-          </mxCell>
-        </object>
+        <mxCell id="0Xg47DILR9-yJ6E_70Ev-11" value="解析共享云token" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="k8A4XXEUtAruGWKC6ZyQ-1" source="0Xg47DILR9-yJ6E_70Ev-0" target="0Xg47DILR9-yJ6E_70Ev-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0Xg47DILR9-yJ6E_70Ev-0" value="第三方对接单位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="k8A4XXEUtAruGWKC6ZyQ-1">
-          <mxGeometry x="185" y="750" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0Xg47DILR9-yJ6E_70Ev-1" value="共享云平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="k8A4XXEUtAruGWKC6ZyQ-1">
           <mxGeometry x="390" y="750" width="120" height="60" as="geometry" />
@@ -354,6 +347,39 @@
         </mxCell>
         <mxCell id="0Xg47DILR9-yJ6E_70Ev-3" value="第三方接口发布单位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="k8A4XXEUtAruGWKC6ZyQ-1">
           <mxGeometry x="650" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0Xg47DILR9-yJ6E_70Ev-12" value="解析共享云token" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="k8A4XXEUtAruGWKC6ZyQ-1" source="0Xg47DILR9-yJ6E_70Ev-13" target="0Xg47DILR9-yJ6E_70Ev-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0Xg47DILR9-yJ6E_70Ev-13" value="第三方对接单位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="k8A4XXEUtAruGWKC6ZyQ-1">
+          <mxGeometry x="150" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0Xg47DILR9-yJ6E_70Ev-14" value="共享云平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="k8A4XXEUtAruGWKC6ZyQ-1">
+          <mxGeometry x="390" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0Xg47DILR9-yJ6E_70Ev-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="k8A4XXEUtAruGWKC6ZyQ-1" source="0Xg47DILR9-yJ6E_70Ev-17" target="0Xg47DILR9-yJ6E_70Ev-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0Xg47DILR9-yJ6E_70Ev-16" value="解析token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0Xg47DILR9-yJ6E_70Ev-15">
+          <mxGeometry x="-0.4526" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0Xg47DILR9-yJ6E_70Ev-17" value="业务接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="k8A4XXEUtAruGWKC6ZyQ-1">
+          <mxGeometry x="650" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0Xg47DILR9-yJ6E_70Ev-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="k8A4XXEUtAruGWKC6ZyQ-1" source="0Xg47DILR9-yJ6E_70Ev-20" target="0Xg47DILR9-yJ6E_70Ev-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0Xg47DILR9-yJ6E_70Ev-19" value="解析token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0Xg47DILR9-yJ6E_70Ev-18">
+          <mxGeometry x="-0.49" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0Xg47DILR9-yJ6E_70Ev-20" value="第三方接口发布单位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="k8A4XXEUtAruGWKC6ZyQ-1">
+          <mxGeometry x="650" y="1010" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
